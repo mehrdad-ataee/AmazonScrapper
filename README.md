@@ -13,3 +13,6 @@ HTML structure and required XPaths for the reviews page is as follow:
 HTML structure and required XPaths for the review cumulation pre-processing is as follow:
 ![Amazon Product Reviews Pre-Processing](/Images/Pre-Processings.png)
 
+Live link to the Analysis Board is:
+[Analysis Board by Miro](https://miro.com/app/board/o9J_lTy4h6k=/)
+
