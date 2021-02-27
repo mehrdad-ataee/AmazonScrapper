@@ -2,6 +2,17 @@
 An Amazon Scrapper Written In Python For Personal Educational Purposes
 
 This program is written in python using selenium to rip required data out of Amazon webstore.
+All scrapped data is getting saved into a sqlite3 database file,
+You may convert the database to a csv file later on.
+
+There are plenty of options in ASConfig.py to play around, Take a look!
+
+Requirements -> A .txt file with product links you want to scrap (Please note that this app is only guaranteed to work properly for the Laptop category)
+You need to synchronize your file name with ASConfig.py settings
+
+Execute ASFront.py and follow instructions.
+
+
 Further analysis of Amazon shows the structure in which the web page is built upon,
 
 HTML structure and required XPaths for the product page is as follow:
