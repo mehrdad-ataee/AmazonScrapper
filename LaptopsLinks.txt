@@ -1,0 +1,17 @@
+# 5 laptops from 5 different tier has been selected
+# first 200 review of each product will be scrapped resulting in a total of 1000 reviews
+
+# Tier 1 (best hardware - pretty high price) (price: $1400)
+https://www.amazon.com/Acer-Predator-i7-10750H-Dual-Channel-PH315-53-72XD/dp/B08842D7JS/ref=sr_1_6?dchild=1&qid=1611479836&refinements=p_n_intended_use_browse-bin%3A9647499011%2Cp_n_condition-type%3A2224371011&rnid=2224369011&s=pc&sr=1-6
+
+# Tire 2 (good hardware - relatively high price) (price: $1000)
+https://www.amazon.com/Acer-i7-9750H-MaxxAudio-Keyboard-AN515-54-728C/dp/B08777BH1B/ref=sr_1_20?dchild=1&qid=1611479836&refinements=p_n_intended_use_browse-bin%3A9647499011%2Cp_n_condition-type%3A2224371011&rnid=2224369011&s=pc&sr=1-20
+
+# Tire 3 (average hardware - normal price) (price: $700)
+https://www.amazon.com/New-Microsoft-Surface-Pro-Touch-Screen/dp/B07YNHXX8D/ref=sr_1_23?dchild=1&qid=1611479836&refinements=p_n_intended_use_browse-bin%3A9647499011%2Cp_n_condition-type%3A2224371011&rnid=2224369011&s=pc&sr=1-23&th=1
+
+# Tire 4 (fine hardware - relatively low price) (price: $520)
+https://www.amazon.com/ASUS-VivoBook-R5-3500U-Graphics-F512DA-EB51/dp/B07QQB7552/ref=sr_1_27?dchild=1&qid=1611667168&refinements=p_n_condition-type%3A2224371011%2Cp_72%3A1248882011%2Cp_n_intended_use_browse-bin%3A9647497011%7C9647498011%7C9647499011&rnid=9647496011&s=pc&sr=1-27&th=1
+
+# Tire 5 (weak hardware - pretty low price) (price: $249)
+https://www.amazon.com/ASUS-Processor-NumberPad-Microsoft-L210MA-DB01/dp/B081V6W99V/ref=sr_1_3?dchild=1&keywords=laptop&qid=1614430097&rnid=16225007011&s=computers-intl-ship&sr=1-3
