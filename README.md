@@ -3,15 +3,16 @@ An Amazon Scrapper Written In Python For Personal Educational Purposes
 
 This program is written in python using selenium to rip below fields out of Amazon webstore into two Tables.
 
-Table1: Products Data
+**Table1: Products Data**
         ID, Title, URL, Location, Variations Count, Review Count
-Table2: Reviews Data:
+
+**Table2: Reviews Data:**
         Product ID, Review ID, Author, Title, Context, User Rate, Review Score, Variation Purchased, Purchase Type, Date, Location
         
 All scrapped data is getting saved into a sqlite3 database file,
 You may convert the database to a csv file later on using this code.
 
-**please note that Amazon doesnt have a unique structure for all categories, so I can't say if this code works on other categories than Laptops
+**please note that Amazon doesnt have a unique structure for all categories, so I can't say if this code works on other categories than Laptops**
 
 There are plenty of options in ASConfig.py to play around, Take a look!
 
